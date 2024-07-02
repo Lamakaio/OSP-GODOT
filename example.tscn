@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://diktpi0124aq7"]
+
+[node name="FlyingScene" type="FlyingScene"]
+scene = "physics"
